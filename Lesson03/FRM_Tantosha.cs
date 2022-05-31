@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using System.Xml;
 
-namespace Lesson03
+namespace Lesson03 //test
 {
     public partial class FRM_Tantosha : Form
     {
